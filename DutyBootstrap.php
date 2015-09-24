@@ -19,8 +19,8 @@ class DutyBootstrap implements BootstrapInterface
     protected function controllerMap()
     {
         return [
-            'fixtures' => [
-                'class' => 'michnaadam33\dutyFixtures\DutyConsole'
+            'duty-fixtures' => [
+                'class' => 'michnaadam33\dutyfixtures\DutyConsole'
             ]
         ];
     }

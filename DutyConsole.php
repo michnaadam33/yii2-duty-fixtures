@@ -16,6 +16,6 @@ class DutyConsole extends Controller
     public function actionHelp()
     {
         $this->stdout('Available action'."\n\n", Console::FG_GREEN);
-        $this->stdout('Not implemented yet'."\n", Console::BG_RED);
+        $this->stdout('Not implemented yet'."\n", Console::BOLD, Console::BG_RED);
     }
 }
