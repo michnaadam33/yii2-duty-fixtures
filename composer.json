@@ -1,0 +1,24 @@
+{
+    "name": "michnaadam33/yii2-duty-fixtures",
+    "description": "Duty fixtures yii2",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension", "fixtures", "duty-fixtures"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adam Michna",
+            "email": "admin@symetrland.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "michnaadam33\\duty-fixtures\\": ""
+        }
+    },
+    "extra": {
+        "bootstrap": "michnaadam33\\dutyFixtures\\DutyBootstrap"
+    }
+}
