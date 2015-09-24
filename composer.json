@@ -15,10 +15,10 @@
     },
     "autoload": {
         "psr-4": {
-            "michnaadam33\\duty-fixtures\\": ""
+            "michnaadam33\\dutyfixtures\\": ""
         }
     },
     "extra": {
-        "bootstrap": "michnaadam33\\dutyFixtures\\DutyBootstrap"
+        "bootstrap": "michnaadam33\\dutyfixtures\\DutyBootstrap"
     }
 }

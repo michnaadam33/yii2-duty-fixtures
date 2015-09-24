@@ -1,6 +1,6 @@
 <?php
 
-namespace michnaadam33\dutyFixtures;
+namespace michnaadam33\dutyfixtures;
 
 use Yii;
 use yii\console\Controller;

@@ -1,6 +1,6 @@
 <?php
 
-namespace michnaadam33\dutyFixtures;
+namespace michnaadam33\dutyfixtures;
 
 use yii\base\BootstrapInterface;
 use yii\base\Application;
